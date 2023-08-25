@@ -1,0 +1,9 @@
+- name: Generate README
+uses: github/readme-generator@v3
+with:
+  # The name of the repository
+  repository: Mohammed-Rahman-sherif/Bank-Note-Authenticator
+  # The path to the README file
+  readmePath: README.md
+  # The GitHub API token with repo and user scope
+  token: ${{ secrets.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 }}
