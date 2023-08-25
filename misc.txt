@@ -1,0 +1,5 @@
+# Author: Mohammed Rahman Sherif
+# Date: 2023-08-25
+# Time: 13:33:03
+
+docker build -t money_api:v1 .
